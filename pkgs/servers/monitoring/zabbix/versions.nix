@@ -1,4 +1,12 @@
 generic: {
+  v80 = generic {
+    version = "8.0.0";
+    hash = "";
+    emberPlusHash = "";
+    mongodbHash = "";
+    mssqlHash = "";
+    postgresqlHash = "";
+  };
   v74 = generic {
     version = "7.4.16";
     hash = "sha256-Diw5HcGErM6ONCUOcyalHhnIvO4x5nuEl/VSYkfs0mE=";
